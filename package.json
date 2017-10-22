@@ -1,0 +1,27 @@
+{
+  "name": "ar-drone-ia",
+  "version": "0.0.1",
+  "description": "An IA for Parrot AR-Drone used in a school project.",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ar-drone": "^0.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vinetos/AR-Drone-IA.git"
+  },
+  "keywords": [
+    "ar-drone",
+    "ia"
+  ],
+  "author": "Vinetos <Vinetosdev@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Vinetos/AR-Drone-IA/issues"
+  },
+  "homepage": "https://github.com/Vinetos/AR-Drone-IA#readme"
+}
